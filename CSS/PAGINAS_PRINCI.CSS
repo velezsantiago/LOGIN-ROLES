@@ -1,0 +1,22 @@
+
+body{
+    font-family: montserrat;
+    background: #2f3640 ;
+    background-color: #34495e;
+}
+
+
+nav{
+    height: 80px;
+    width: 100%;
+    background: #34495e;
+}
+
+
+section{
+    background:url(https://www.asaecenter.org/-/media/ASAE/Images/Resources/Articles/AN_Plus/2021/February/remote-work-legal-issues/remote-work-legal-issues_39x22.ashx)
+     no-repeat;
+    background-size: cover;
+    height: calc(100vh - 80px);
+
+}
